@@ -1,4 +1,21 @@
-# WoW Items Fields
+# NpDmp
+An addon for dump WoW Items
+
+## How to run ?
+Make sure you run this command in Game:
+
+```
+n = iteration
+
+/run NpDmp(n);
+```
+
+Command not print anything so you have to Check SavedVariables inside folder:
+
+C:/Game/World of Warcraft/WTF/Account/(YOURID)/SavedVariables/NpDmp.lua
+
+
+## WoW Items Fields
 | id  | sLink | iType | iLevel | iTexture | iRarity | sSubtype | sType | iMinLevel | istackCount | sName |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 35 | \|cffffffff\|Hitem:35:0:0:0:0:0:0:0:80\|h[Bent Staff]\|h\|r | INVTYPE_2HWEAPON | 2 | InterfaceIconsINV_Staff_08 | 1 | Staves | Weapon | 1 | 1 | Bent Staff |
