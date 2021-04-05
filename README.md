@@ -7,7 +7,7 @@ Make sure you run this command in Game:
 ```
 n = iteration
 
-/run NpDmp(n);
+/run NpDump(n);
 ```
 
 Command not print anything so you have to Check SavedVariables inside folder:
